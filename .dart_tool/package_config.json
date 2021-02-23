@@ -62,6 +62,12 @@
       "languageVersion": "2.2"
     },
     {
+      "name": "get_it",
+      "rootUri": "file:///Users/afifahsalimi/Development/flutter/.pub-cache/hosted/pub.dartlang.org/get_it-5.0.6",
+      "packageUri": "lib/",
+      "languageVersion": "2.1"
+    },
+    {
       "name": "matcher",
       "rootUri": "file:///Users/afifahsalimi/Development/flutter/.pub-cache/hosted/pub.dartlang.org/matcher-0.12.10-nullsafety.1",
       "packageUri": "lib/",
@@ -74,10 +80,28 @@
       "languageVersion": "2.10"
     },
     {
+      "name": "nested",
+      "rootUri": "file:///Users/afifahsalimi/Development/flutter/.pub-cache/hosted/pub.dartlang.org/nested-0.0.4",
+      "packageUri": "lib/",
+      "languageVersion": "2.2"
+    },
+    {
+      "name": "overlay_support",
+      "rootUri": "file:///Users/afifahsalimi/Development/flutter/.pub-cache/hosted/pub.dartlang.org/overlay_support-1.0.5",
+      "packageUri": "lib/",
+      "languageVersion": "2.1"
+    },
+    {
       "name": "path",
       "rootUri": "file:///Users/afifahsalimi/Development/flutter/.pub-cache/hosted/pub.dartlang.org/path-1.8.0-nullsafety.1",
       "packageUri": "lib/",
       "languageVersion": "2.10"
+    },
+    {
+      "name": "provider",
+      "rootUri": "file:///Users/afifahsalimi/Development/flutter/.pub-cache/hosted/pub.dartlang.org/provider-4.3.3",
+      "packageUri": "lib/",
+      "languageVersion": "2.7"
     },
     {
       "name": "sky_engine",
@@ -140,7 +164,7 @@
       "languageVersion": "2.7"
     }
   ],
-  "generated": "2021-02-23T02:50:39.343275Z",
+  "generated": "2021-02-23T03:32:55.853413Z",
   "generator": "pub",
   "generatorVersion": "2.10.4"
 }
